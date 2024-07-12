@@ -12,7 +12,7 @@ Revenue Trends,Customer Insights,Resource Allocation,Performance Tracking,Strate
 1. Creating Division wise report.
 2. Creating Profit and Loss for markets
 3. Creating Quarter wise Gross Margin report.
-   ## Imprtance of Financial Analysis
+   ## Importance of Financial Analysis
    Performance Comparison,Targeted Strategies,Resource Allocation,Accountability,Improved Decision Making,Trend Analysis,Cost Control,Financial Planning.
 
 ## Technical & Soft Skills:
